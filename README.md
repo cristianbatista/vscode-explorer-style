@@ -1,7 +1,7 @@
 # vscode-style-explorer
 Increases indentation on the file tree and adds some lines to each directory/file
 
-![alt text](https://github.com/cristianbatista/vscode-style-explorer/blob/master/images/explorer.png)
+![alt text](https://github.com/cristianbatista/vscode-explorer-style/blob/master/images/explorer.png)
 
 ### Instructions
 * install extension "Custom CSS and JS" 
